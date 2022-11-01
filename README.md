@@ -22,9 +22,9 @@ We'd like to ask you to familiarize yourself with our [Contribution Guide](CONTR
 
 ## Authors
 
-A list of contributors to these materials can be found in [AUTHORS](AUTHORS.md)
+A list of contributors to these materials can be found in [Authors](AUTHORS.md)
 
 ## Citation
 
-To cite these materials, please consult with [CITATION](CITATION.md)
+To cite these materials, please consult with [Citation](CITATION.md)
 
